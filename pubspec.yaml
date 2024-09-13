@@ -37,6 +37,8 @@ dependencies:
   cupertino_icons: ^1.0.6
   masked_text_field: ^1.0.2
   http: ^1.2.2
+  smart_alert_dialog: ^4.0.4
+  dialog_alert: ^0.0.3
 
 dev_dependencies:
   flutter_test:
